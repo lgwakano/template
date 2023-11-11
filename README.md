@@ -3,4 +3,4 @@
 
 2. [Construction Rection](https://lgwakano.github.io/templates/construction2/demo/index)
 
-3. [Buildind and Construction](https://lgwakano.github.io/templates/construction2/demo/index)
+3. [Buildind and Construction](https://lgwakano.github.io/templates/construction3/demo/index)
