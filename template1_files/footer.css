@@ -1,0 +1,43 @@
+.footer-min {
+     
+}
+ 
+.facebook-change-co {
+    background: #23a1cf;
+    color: #fff;
+}
+
+.twitter-change-co {
+    background: #88d9f7;
+    color: #fff;
+}
+
+.pinterest-change-co {
+    background: #f5235d;
+    color: #fff;
+}
+
+.linkedin-change-co {
+    background: #1893da;
+    color: #fff;
+}
+
+.footer-min .copy-one p {
+    float: right;
+}
+
+.footer-min .wi-100 li {
+    padding: 0px;
+}
+
+.b-top {
+    border-top: 1px solid #999;
+}
+
+.copy-one p {
+    margin: 0px;
+    color: #999;
+    font-weight: normal;
+    font-size: 15px;
+    text-align: center;
+}
